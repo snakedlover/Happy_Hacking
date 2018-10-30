@@ -18,6 +18,8 @@
 - [Venusha Amarathunga](https://github.com/venushaamarathunga)
   - [LinkedIn](https://www.linkedin.com/in/venusha-amarathunga-9573b4172/)
 - [Ashish Sinha](https://github.com/sinashish)
+
+- [Snaked Lover](https://github.com/snakedlover/)
 - [Muhammad Ali](https://github.com/designsbyali)
 - [Pradeep](https://github.com/gariya95)
 - [Brian Barry](https://github.com/bribarry)
